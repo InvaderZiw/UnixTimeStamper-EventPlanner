@@ -6,6 +6,6 @@ tests/
 tests-out/
 install-linters.sh
 Makefile.checker
-parser.awk
+parse.awk
 planner
 result
