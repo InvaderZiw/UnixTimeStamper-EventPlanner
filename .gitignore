@@ -1,0 +1,11 @@
+bitpacking
+check.sh
+check16
+check16.c
+tests/
+tests-out/
+install-linters.sh
+Makefile.checker
+parser.awk
+planner
+result
